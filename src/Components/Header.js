@@ -59,7 +59,6 @@ function Header(props) {
    };
 
    if (props.data) {
-      var name = props.data.name;
       var networks = props.data.social.map(function (network) {
          return <li key={network.name}><a href={network.url} target="blank"><i className={network.className}></i></a></li>
       })
