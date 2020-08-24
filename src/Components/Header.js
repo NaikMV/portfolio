@@ -27,7 +27,7 @@ function Header(props) {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">Hi, I'm {name}.</h1>
-                  <h3>I'm a NYC based <span>software engineer</span> currently seeking a software development role in the United States.</h3>
+                  <h3>I'm a NYC based <span>software engineer</span> currently seeking a full-time software development role in the United States.</h3>
                   <hr />
                   <ul className="social">
                      {networks}
