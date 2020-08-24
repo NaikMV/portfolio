@@ -9,7 +9,7 @@ function Header(props) {
    }
    return (
       <div id="home">
-         <div style={{height: "100%", width: "100%", float: "none", top: "40%", textAlign: "center", position: "absolute" }}>
+         <div style={{height: "100%", width: "100%", float: "none", top: "25%", textAlign: "center", position: "absolute" }}>
             <nav id="nav-wrap">
                <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
