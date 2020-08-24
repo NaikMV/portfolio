@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Manan Naik",
+    "occupation":"software engineer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"A computer programmer, sometimes called a software developer, a programmer or more recently a coder, is a person who creates computer software. I'm that person with over 5 years of hands-on experience in Design, Development, and Implementation of business applications. I love building things. My expertise is in building scalable web and mobile applications using state of the art technologies. Please check my resume for knowing more about me.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "manan.v.naik@gmail.com",
+    "phone": "+1 848-391-6791",
+    "address":{
+      "street":"(Your Street)",
+      "city":"NYC",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/manan-naik/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/NaikMV",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/manan.naik.33/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/manan_naik/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Very well skilled in such technologies as JavaScript, React JS, HTML5, CSS, C#, ASP.net MVC, Entity Framework, Web API, LINQ, Node.JS and MS SQL Server. Also, very proficient in developing mobile applications using React Native.",
+    "education":[
+      {
+        "school":"Pace University - NYC",
+        "degree":"Master's in Information Systems",
+        "graduated":"May 2021"        
+      },
+      {
+        "school":"Gujarat Technological University - India",
+        "degree":"Bachelor's in Computer Engineering",
+        "graduated":"May 2015"
+      }
+    ],
+    "work":[
+      {
+        "company":"Pace University",
+        "title":"Graduate Assistant to Associate Dean, Web Developer",
+        "years":"Jan 2020 - Present",
+        "description":"• Develop a web application for displaying products and customer details from SQL server database. • Normalized a SQL server database with 100M+ Amazon book orders for 64M customers. • Assist the director of the data science lab with support and training of students in various tasks, such as explaining & showing the work of the web application, database, and firing queries in the database.",
+        "techUsed" : "Technologies & Tools used: React.js, Express.js, Chart.js, Python, MS SQL Server, AWS LightSail, GitHub, Trello"
+      },
+      {
+        "company":"Sypram Technology Pvt. Ltd.",
+        "title":"Software Engineer",
+        "years":"Nov 2015 – Jul 2019",
+        "description":"• Developed an e-commerce website to support retail businesses by integrating it with enterprise point of sale (POS) software and increased total sale by 20%. • Developed a web admin for POS software to enable the client to efficiently manage the entire POS software. • Deployed AWS Solutions using EC2, LightSail, Cloud Formation, and Route53. • Developed a mobile application to expand the productivity of retail industry clients by giving effective solutions. • Designed and developed a mobile application using React Native for ordering food online from deli stores in the USA. • Created cloud-based REST APIs for integrating mobile applications to the enterprise POS software.",
+        "techUsed" : "Technologies & Tools used: AWS, JavaScript, React Native, c#, ASP.NET MVC, Bootstrap, HTML5, CSS3, MS SQL, MariaDB, Jira"
+      },
+      {
+        "company":"Invision Software Solution",
+        "title":"Software Engineer Intern",
+        "years":"Aug 2014 – May 2015",
+        "description":"Developed admin module for taking aptitude test in electronic recruitment system.",
+        "techUsed" : "Technologies & Tools used: c#, ASP.NET MVC, JavaScript, HTML5, CSS3"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"c#",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"React Native",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"MS SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Restaurant Tip Management",
+        "category":"Tip management application of multiple restaurants",
+        "image":"canadian-wanderlust.jpg"
+      },
+      {
+        "title":"English Thesaurus application",
+        "category":"Wrote Python code for interactive English dictionary. The application gives meaning of the word typed by the user.",
+        "image":"fury-fighting-gear.jpg"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"While leading a team of Software Engineers, what I always desire is a good team player and Manan exceeded my expectations. I have closely monitored his performance in terms of technical and soft skills. He is well-trained and possesses good problem-solving skills.",
+        "user":"Jateen Patel - Project Manager at Sypram Teachnology Pvt. Ltd."
+      },
+      {
+        "text":"Manan is highly skilled Software developer with an attitude to meet deadlines. He pursue high level of accountability and gives it everything he has in order to accomplish the tasks well within the timelines.",
+        "user":"Gaurav Sharma - Associate Consultant at Capgemini India"
+      }
+    ]
+  }
+}
