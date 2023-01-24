@@ -44,9 +44,16 @@
     ],
     "work":[
       {
+        "company":"Effectual Inc.",
+        "title":"Software Developer",
+        "years":"Jun 2021 – Feb 2023",
+        "description":"• Served as the developer on several serverless React applications, including extended 3rd party native integrations. • Produced IaC via CloudFormation, Serverless Framework, and Node/Bash scripts for all associated resources, and services needed for web projects. • Developed 3rd Party API integration in web application for several companies to gain access to their data, functionality and features. • Optimized AWS monthly cost by almost 60% by rewriting cron jobs and triggers in AWS lambda functions. • Worked on CI/CD pipelines for segmented serverless APIs and a React application. • Responsible for application maintenance, deployments, Jira task creation, instant bug fixing.",
+        "techUsed" : "Technologies & Tools used: React.js, Node.js, Serverless framework, GraphQL, AWS, GitHub"
+      },
+      {
         "company":"Pace University",
         "title":"Graduate Assistant to Associate Dean, Web Developer",
-        "years":"Jan 2020 - Present",
+        "years":"Jan 2020 - May 2021",
         "description":"• Develop a web application for displaying products and customer details from SQL server database. • Normalized a SQL server database with 100M+ Amazon book orders for 64M customers. • Assist the director of the data science lab with support and training of students in various tasks, such as explaining & showing the work of the web application, database, and firing queries in the database.",
         "techUsed" : "Technologies & Tools used: React.js, Express.js, Chart.js, Python, MS SQL Server, AWS LightSail, GitHub, Trello"
       },
