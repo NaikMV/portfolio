@@ -29,7 +29,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Very well skilled in such technologies as JavaScript, React JS, HTML5, CSS, C#, ASP.net MVC, Entity Framework, Web API, LINQ, Node.JS and MS SQL Server. Also, very proficient in developing mobile applications using React Native.",
+    "skillmessage":"Very well skilled in such technologies as React.js, Node.js, GraphQL, JavaScript, Serverless Framework, c#, ASP.Net MVC, HTML5, CSS, Entity Framework, Web API, Relational and Non-Relational database. Also, very proficient in developing mobile applications using React Native.",
     "education":[
       {
         "school":"Pace University - NYC",
