@@ -86,7 +86,7 @@ function Header(props) {
                   class="txt-rotate"
                   data-period="2000"
                   data-rotate='[ "Manan Naik.", "Coder..!" ]'></span></h1>
-                  <h3>I'm a NYC based <span>software engineer</span> currently seeking a full-time software development role in the United States.</h3>
+                  <h3>I'm a New Jersey based <span>software engineer</span> currently seeking a full-time software development role in the United States.</h3>
                   <hr />
                   <ul className="social">
                      {networks}
