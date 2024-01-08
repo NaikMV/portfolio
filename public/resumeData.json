@@ -44,9 +44,16 @@
     ],
     "work":[
       {
+        "company":"GEICO",
+        "title":"Software Engineer II",
+        "years":"May 2023 – Present",
+        "description":"• Created reusable react components for insurance claims department in shared react library repository that can be used for several projects within organization. • Designed & developed GEICO’s claim APIs with the processes to connect the react application with .Net core backend. • Performing unit testing using Jest to meet the code coverage requirement by minimum 90% and Implementing BDD testing using cucumber tool for end-to-end claims scheduling flow. • Active participant in future design discussion to convert existing insurance software into micro service architecture. • Tracking metrics performance by using 3rd party services like Sentry and App Insights. • Performing Agile methodologies I.e. Sprint related activities using Azure DevOps.",
+        "techUsed" : "Technologies & Tools used: React.js, Redux, TypeScript, Azure DevOps, Jest, Cucumber, c#"
+      },
+      {
         "company":"Effectual Inc.",
         "title":"Software Developer",
-        "years":"Jun 2021 – Feb 2023",
+        "years":"Jun 2021 – Apr 2023",
         "description":"• Served as the developer on several serverless React applications, including extended 3rd party native integrations. • Produced IaC via CloudFormation, Serverless Framework, and Node/Bash scripts for all associated resources, and services needed for web projects. • Developed and Deployed 3rd Party API integration for several companies to gain access to their data, functionality and features by providing real time data which increased the efficiency of web application by almost 60%. • Optimized AWS monthly cost by almost 70% by rewriting cron jobs and triggers in AWS lambda functions. • Worked on CI/CD pipelines for segmented serverless APIs and a React application. • Responsible for maintaining application, deployments, Jira task creation, instant bug fixing & increasing productivity as well as efficiency of application.",
         "techUsed" : "Technologies & Tools used: React.js, Node.js, Serverless framework, GraphQL, AWS, GitHub"
       },
